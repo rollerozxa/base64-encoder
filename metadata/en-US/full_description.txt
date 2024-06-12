@@ -1,0 +1,3 @@
+Base64 is an encoding scheme that can represent text and other data in 64 different characters. This app allows you to encode text as Base64 as well as decode a Base64 encoded message.
+
+The app is tiny (<64kb), contains no ads, no crap, just Base64. Nothing else, <em>only Base64</em>.
